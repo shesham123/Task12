@@ -1,0 +1,17 @@
+{
+  "profiles": [
+    {
+      "profileId": "fem-001",
+      "name": "Victor Crest",
+      "age": 26,
+      "location": "London",
+      "followers": 80000,
+      "likes": 802652,
+      "photos": 1426,
+      "profilePhoto": "../src/assets/images/image-victor.jpg",
+      "coverPhoto": "../src/assets/images/bg-pattern-card.svg"
+      
+    }
+    
+  ]
+}
